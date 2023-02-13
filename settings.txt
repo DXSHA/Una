@@ -1,0 +1,17 @@
+{"site_url":"http://localhost:8000",
+"site_title": "Деревня Уна: Туристическая база на Белом море",
+"description": "Онежское Поморье - Уна маршруты в Унской губе",
+"keywords": "Туризм Архангельская область, Турбаза Уна",
+"name": "Турбаза Уна",
+"tag1":"Отдых на берегу белого моря",
+"tag2":"Обзорная экскурсия",
+"sect1":"Главная",
+"sect2":"Бронирование",
+"sect3":"Услуги",
+"sect4":"О нас",
+"sect5":"Контакты",
+"telegram":"https://t.me/johndoe",
+"facebook":"ttps://facebook.com/john.doe",
+"vk":"https://vk.com/john_doe",
+"email":"mailto:john_doe@gmail.com"
+}
